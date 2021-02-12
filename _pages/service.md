@@ -9,8 +9,8 @@ author_profile: true
 
 Currently, I am the president of the UAlberta [BGSA](https://grad.biology.ualberta.ca/bgsa/). I stepped into this role in April 2020, in the early days of the Covid-19 pandemic. We had to pivot to exclusively online presence and adapt to the new reality. Since then, the BGSA worked hard on maintaining the sense of community and providing the students with networking and training opportunities in place of those taken away by covid. The BGSA:
 
-* Organized workshops: on science communication, data analysis and R, and grant writing,
-* Organized fun social events for the grad students,
+* Organized online workshops: on science communication, data analysis and R, and grant writing,
+* Organized online social events for the grad students,
 * Participated in the Quality Assurance visit (an external review of the department that all university departments across Canada undergo every 4 years),
 * Helped in organizing the annual [Dr. R.E. Peter Biology Conference](https://peter.biology.ualberta.ca/2021-r-e-peter-online-conference/). The conference is run by grad students of the department and features student presentations, workshops, and public talks.
 
