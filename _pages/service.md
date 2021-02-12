@@ -14,6 +14,8 @@ Currently, I am the president of the UAlberta [BGSA](https://grad.biology.ualber
 * Participated in the Quality Assurance visit (an external review of the department that all university departments across Canada undergo every 4 years),
 * Helped in organizing the annual [Dr. R.E. Peter Biology Conference](https://peter.biology.ualberta.ca/2021-r-e-peter-online-conference/). The conference is run by grad students of the department and features student presentations, workshops, and public talks.
 
+In the **before-covid times**, I co-organized live events for the grad students: the weekly BGSA Coffee Hour, and 2020 Candidacy Exam Workshop.  
+
 ### EDI (Equity Diversity Inclusion) Efforts
 
 I am a member of the [EDI Committee](http://grad.biology.ualberta.ca/bgsa/edi/) at the BGSA. In 2019-2021, the committee:
@@ -23,7 +25,7 @@ I am a member of the [EDI Committee](http://grad.biology.ualberta.ca/bgsa/edi/) 
 
 I also am a grad student member of the READ (Respect, Equity, Accountability, and Departmental Culture) working group.
 
-In the **before-covid times**, I co-organized live events for the grad students: the weekly BGSA Coffee Hour, and 2020 Candidacy Exam Workshop.
+
 
 Outreach
 ======
