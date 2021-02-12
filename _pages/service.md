@@ -23,6 +23,7 @@ I am a member of the [EDI Committee](http://grad.biology.ualberta.ca/bgsa/edi/) 
 
 I also am a grad student member of the READ (Respect, Equity, Accountability, and Departmental Culture) working group.
 
+In the **before-covid times**, I co-organized live events for the grad students: the weekly BGSA Coffee Hour, and 2020 Candidacy Exam Workshop.
 
 Outreach
 ======
@@ -32,15 +33,12 @@ Outreach
 Being grateful to all the great mentors I met during my career, I am trying to welcome more junior members of the community: from preschoolers to undergrad students.
 
 **1. The Science Mentors**
-
 [TSM](https://www.thesciencementors.com/en) is a program providing support and career advice to Russian-speaking undergrad students by connecting them to more experienced scholars. I have been a mentor for two cycles of the program, and also was interviewed on a live stream ([Watch on YouTube (in Russian)](https://www.youtube.com/watch?v=1G5a-NEvQRI&t=2s&ab_channel=TheScienceMentors))
 
 **2. Research Zone Science Communication Program**
-
 [Research Zone](https://telusworldofscienceedmonton.ca/get-involved/research-zone/) is a program organized by the Telus World of Science. The program helps scientists communicate their research to the audience of kids. I participated in the program in 2019. I developed a hands-on activity based on my research ("learning how to make a lichen") and presented it in the science center.
 
-**3. Conferences and competitions for high school students**
-
+**3. Conferences and competitions for high school students**  
 During my time at the St. Petersburg University, I was involved in multiple initiatives aimed at high school students interested in biology.
 
 * Co-organizer and judge at the “Future Scientists” conference (2011, 2017),
