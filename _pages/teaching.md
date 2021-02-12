@@ -31,5 +31,5 @@ Mentoring
 ======
 In Winter 2020, I started co-supervising Samantha Pederson, an undergraduate researcher at the Spribille Lab. Samantha did a term project on lichen inhabiting Tremella, and presented a poster at the Canadian Botanical Association Virtual Meeting in June 2020. Currently, we are working together on another project
 
-![](images/teaching1.jpg)
+![teaching1](http://metalichen.github.io/images/teaching1.jpg)
 A group of students of the field course somewhere on an island in the White Sea
