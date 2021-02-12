@@ -1,25 +1,67 @@
 ---
+layout: archive
+title: "Service"
 permalink: /service/
-title: "Hello!"
-excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /service/
-  - /service.html
 ---
 
-I am currently a PhD student at the [Spribille lab](https://spribillelab.wordpress.com) at University of Alberta. I study the evolution of fungal-algal symbioses, known as lichens. For my current project, I apply bioinformatics methods combined with wet-lab techniques to try to understand how microbial partners communicate in the symbiotic setting and what each of them contributes to the system.
+##Biological Graduate Students’ Association (UAlberta)
 
-Recent news
+Currently, I am the president of the UAlberta [BGSA](https://grad.biology.ualberta.ca/bgsa/). I stepped into this role in April 2020, in the early days of the Covid-19 pandemic. We had to pivot to exclusively online presence and adapt to the new reality. Since then, the BGSA worked hard on maintaining the sense of community and providing the students with networking and training opportunities in place of those taken away by covid. The BGSA:
+
+* Organized workshops: on science communication, data analysis and R, and grant writing,
+* Oganized fun social events for the grad students,
+* Participated in the Quality Assurance visit (an external review of the department that all university departments across Canada undergo every 4 years),
+* Helped in organizing the annual [Dr. R.E. Peter Biology Conference](https://peter.biology.ualberta.ca/2021-r-e-peter-online-conference/). The conference is run by grad students of the department and features student presentations, workshops, and public talks.
+
+##EDI (Equity Diversity Inclusion) Efforts
+
+I am a member of the [EDI Committee](http://grad.biology.ualberta.ca/bgsa/edi/) at the BGSA. In 2019-2021, the committee:
+
+* Designed and administered a survey on the EDI issues for the graduate students and postdocs. Communicated the results of the survey to the departmental and faculty,
+* Prepared a list of resources on the EDI to be displayed on the BGSA website.
+
+I also am a grad student member of the READ (Respect, Equity, Accountability, and Departmental Culture) working group.
+
+
+Outreach
 ======
-**11 Feb 2021:** Hello world! The website is online
 
-Contact me
-======
-tagirdzh at ualberta.ca
+##Paying forward
 
-Mailing address: 
-Biological Sciences CW405
-University of Alberta
-Edmonton, Alberta
-Canada T6G 2R3
+Being greatful to all the great mentors I met during my career, I am trying to welcome more junior members of the community: from pre-schoolers to undergrad students.
+
+###The Science Mentors
+
+[TSM](https://www.thesciencementors.com/en) is a program providing support and career advice to Russian-speaking undergard students by connecting them to more experinced scholars. I have been a mentor for two cycles of the program, and also was interviewed on a live stream ([Watch on youtube (in Russian)](https://www.youtube.com/watch?v=1G5a-NEvQRI&t=2s&ab_channel=TheScienceMentors))
+
+###Research Zone Science Communication Program
+
+[Reserach Zone](https://telusworldofscienceedmonton.ca/get-involved/research-zone/) is a program organized by the Telus World of Science. The program helps scientists communicate their research to the audience of kids. I participated in the program in 2019. I developed a hands-on activity based on my research ("learniing how to make a lichen") and presented it in the science center.
+
+###Conferences and competitions for high school students
+
+During my time at the St. Petersburg University, I was involved in multiple initiatives aimed at high school students interested in biology.
+
+* Co-organizer and judge at the “Future Scientists” conference (2011, 2017),
+* Judge at the School Biology Olympiad: a competition testing  students' theoretical knowledge and practical skills in biology (2011-2017),
+* Judge at the "Youth Biology Tournament": a team competition for students competing in solving open-ended biology problems (2011-2013).
+
+
+##Nature Conservation and public engagement
+
+Since my undergrad times, I have been involved in nature conservation efforts. As a junior member of a team of scientists, I
+
+* Collected and proccessed data on rare and endangered lichen species,
+* Participated in surveys leading to the establishment of several Nature Reserves in Russia.
+
+I also do outreach and participate in events for nature enthusiasts:
+
+* I gave a public talk at The Great Alberta Mushroom Foray (2019),
+* I participated in the Tombstone Park BioBlitz in Yukon, Canada (2018). BioBlitz is an event bringing together biologists and nature enthusiasts from public, and focused on describing biodiversity of a certain area,
+* I co-taught the field seminar for students and NGO volunteers “Nature Conservation and biologically valuable forests” (2017).
+
+![outreach](http://metalichen.github.io/images/outreach.png)
+Learning how to make a lichen (don't aks)
+
+
