@@ -38,7 +38,7 @@ Being grateful to all the great mentors I met during my career, I am trying to w
 **2. Research Zone Science Communication Program**
 [Research Zone](https://telusworldofscienceedmonton.ca/get-involved/research-zone/) is a program organized by the Telus World of Science. The program helps scientists communicate their research to the audience of kids. I participated in the program in 2019. I developed a hands-on activity based on my research ("learning how to make a lichen") and presented it in the science center.
 
-**3. Conferences and competitions for high school students**  
+**3. Conferences and competitions for high school students**    
 During my time at the St. Petersburg University, I was involved in multiple initiatives aimed at high school students interested in biology.
 
 * Co-organizer and judge at the “Future Scientists” conference (2011, 2017),
