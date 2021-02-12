@@ -9,8 +9,11 @@ main:
   - title: "Publications"
     url: /publications/  
     
-  - title: "Teaching, Outreach, and Service"
+  - title: "Teaching & Mentoring"
     url: /teaching/
+    
+  - title: "Service & Outreach"
+    url: /service/
     
   - title: "Blog Posts"
     url: /year-archive/
