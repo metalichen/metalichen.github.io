@@ -18,12 +18,8 @@ Contact me
 ======
 tagirdzh at ualberta.ca
 
-Mailing address:
-
-Biological Sciences CW405
-
-University of Alberta
-
-Edmonton, Alberta
-
+Mailing address:\
+Biological Sciences CW405\
+University of Alberta\
+Edmonton, Alberta\
 Canada T6G 2R3
