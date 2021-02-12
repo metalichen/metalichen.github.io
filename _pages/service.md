@@ -5,7 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-## Biological Graduate Students’ Association (UAlberta)
+## Biology Graduate Students’ Association (UAlberta)
 
 Currently, I am the president of the UAlberta [BGSA](https://grad.biology.ualberta.ca/bgsa/). I stepped into this role in April 2020, in the early days of the Covid-19 pandemic. We had to pivot to exclusively online presence and adapt to the new reality. Since then, the BGSA worked hard on maintaining the sense of community and providing the students with networking and training opportunities in place of those taken away by covid. The BGSA:
 
