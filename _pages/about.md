@@ -12,6 +12,7 @@ I am currently a PhD student at the [Spribille lab](https://spribillelab.wordpre
 
 Recent news
 ======
+**9 Mar 2021:** My [paper](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evab047/6163286) in GBE is finally out! Thanks to all the coauthors!
 **11 Feb 2021:** Hello world! The website is online
 
 Contact me
