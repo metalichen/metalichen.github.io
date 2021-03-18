@@ -9,7 +9,7 @@ See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAA
 
 Preprints and manuscipts under review/revision
 ======
-1.  **Tagirdzhanova G.**, McCutcheon J. P., Spribille T. Lichen fungi do not depend on the alga for ATP production. Preprint on bioRxiv, [Link to preprint](doi.org/10.1101/2021.03.17.435722)
+1.  **Tagirdzhanova G.**, McCutcheon J. P., Spribille T. Lichen fungi do not depend on the alga for ATP production. Preprint on bioRxiv, [Link to preprint](https://www.biorxiv.org/content/10.1101/2021.03.17.435722v1)
 
 Papers
 ======
