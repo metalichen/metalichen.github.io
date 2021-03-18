@@ -9,11 +9,11 @@ See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAA
 
 Preprints and manuscipts under review/revision
 ======
--
+1.  **Tagirdzhanova G.**, McCutcheon J. P., Spribille T. Lichen fungi do not depend on the alga for ATP production. Preprint on bioRxiv, [Link to preprint](doi.org/10.1101/2021.03.17.435722)
 
 Papers
 ======
-1. **Tagirdzhanova G.**, Saary P., Tingley J., Diaz Escandon D., Abbott W., Finn R., Spribille T. Predicted input of uncultured fungal symbionts to a lichen symbiosis from metagenome-assembled genomes. Genome Biology and Evolution [Link to article](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evab047/6163286)
+1. **Tagirdzhanova G.**, Saary P., Tingley J., Diaz Escandon D., Abbott W., Finn R., Spribille T. Predicted input of uncultured fungal symbionts to a lichen symbiosis from metagenome-assembled genomes. 2021. Genome Biology and Evolution [Link to article](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evab047/6163286)
 
 2. Spribille T., **Tagirdzhanova G.**, Goyette S., Tuovinen V., Case R., Zandberg W. 2020. 3D biofilms: in search of the polysaccharides holding together lichen symbioses. FEMS Microbiology Letters 367(5): p.fnaa023. [Download PDF](http://metalichen.github.io/files/Spribille_et_al_2020.pdf)
 
