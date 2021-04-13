@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Thanks to Covid-19 pandemics, I now have a several recordings of my talks publicly available:
+Thanks to the Covid-19 pandemics, I now have several recordings of my talks publicly available:
 
 1. Oral presentation at the 2021 British Lichen Society Annual General Meeting\
 [![talk3](http://metalichen.github.io/images/talk3.png)](https://www.youtube.com/watch?v=L9xzSAzUT1s&t=42s&ab_channel=TheBritishLichenSociety)

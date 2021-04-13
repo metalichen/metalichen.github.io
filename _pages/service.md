@@ -7,7 +7,7 @@ author_profile: true
 
 ### Biology Graduate Students’ Association (UAlberta)
 
-Currently, I am the president of the UAlberta [BGSA](https://grad.biology.ualberta.ca/bgsa/). I stepped into this role in April 2020, in the early days of the Covid-19 pandemic. We had to pivot to exclusively online presence and adapt to the new reality. Since then, the BGSA worked hard on maintaining the sense of community and providing the students with networking and training opportunities in place of those taken away by covid. The BGSA:
+In 2020-2021, I was the president of the UAlberta [BGSA](https://grad.biology.ualberta.ca/bgsa/). I stepped into this role in April 2020, in the early days of the Covid-19 pandemic. We had to pivot to exclusively online presence and adapt to the new reality. During my term, the BGSA worked hard on maintaining the sense of community and providing the students with networking and training opportunities in place of those taken away by covid. The BGSA:
 
 * Organized online workshops: on science communication, data analysis and R, and grant writing,
 * Organized online social events for the grad students,
@@ -32,7 +32,7 @@ Outreach
 
 ## Paying forward
 
-Being grateful to all the great mentors I met during my career, I am trying to welcome more junior members of the community: from preschoolers to undergrad students.
+Being grateful to all the great mentors I met during my career, I am trying to welcome more junior members of the community, from preschoolers to undergrad students.
 
 **1. The Science Mentors**\
   [TSM](https://www.thesciencementors.com/en) is a program providing support and career advice to Russian-speaking undergrad students by connecting them to more experienced scholars. I have been a mentor for two cycles of the program, and also was interviewed on a live stream ([Watch on YouTube (in Russian)](https://www.youtube.com/watch?v=1G5a-NEvQRI&t=2s&ab_channel=TheScienceMentors))
