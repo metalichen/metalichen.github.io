@@ -12,6 +12,8 @@ I am currently a PhD student at the [Spribille lab](https://spribillelab.wordpre
 
 Recent news
 ======
+**7 JUl 2021** Our preprint is now published in [Molecular Ecology](https://onlinelibrary.wiley.com/doi/10.1111/mec.16010)
+
 **26 May 2021:** Thanks MSA for inviting me to speak at the Students Mycology Colloquium, the recording is now available at [youtube](https://www.youtube.com/watch?v=yHUCPw1q-jc&ab_channel=MSAStudents)
 
 **17 Mar 2021:** New preprint ["Lichen fungi do not depend on the alga for ATP production"](https://www.biorxiv.org/content/10.1101/2021.03.17.435722v1)
