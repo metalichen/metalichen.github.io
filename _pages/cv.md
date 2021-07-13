@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV (version from May 2021)](http://metalichen.github.io/files/CV.pdf)
+[Download CV (version from Jul 2021)](http://metalichen.github.io/files/CV.pdf)
