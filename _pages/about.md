@@ -12,7 +12,7 @@ I am currently a PhD student at the [Spribille lab](https://spribillelab.wordpre
 
 Recent news
 ======
-**7 JUl 2021** Our preprint is now published in [Molecular Ecology](https://onlinelibrary.wiley.com/doi/10.1111/mec.16010)
+**7 Jul 2021** Our preprint is now published in [Molecular Ecology](https://onlinelibrary.wiley.com/doi/10.1111/mec.16010)
 
 **26 May 2021:** Thanks MSA for inviting me to speak at the Students Mycology Colloquium, the recording is now available at [youtube](https://www.youtube.com/watch?v=yHUCPw1q-jc&ab_channel=MSAStudents)
 
