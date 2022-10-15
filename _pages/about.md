@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc at Nick Talbot's group at The Sainsbury Lab (Norwich, UK). I study the evolution of fungal-algal symbioses, known as lichens. For my current project, I apply bioinformatics methods combined with wet-lab techniques to try to understand how lichen symbionts together contribute to the morphogenesis of symbiotic architectures.
+I am currently a postdoc at [Nick Talbot's group](https://www.tsl.ac.uk/our-work/scientific-groups/nick-talbot-group) in The Sainsbury Lab (Norwich, UK). I study the evolution of fungal-algal symbioses, known as lichens. For my current project, I apply bioinformatics methods combined with wet-lab techniques to try to understand how lichen symbionts together contribute to the morphogenesis of symbiotic architectures.
 
 I did my PhD at the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.com) at the University of Alberta (Canada). In my PhD project I focused on metagenomics applied to lichen symbiosis.
  
