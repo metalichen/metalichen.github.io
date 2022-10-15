@@ -8,10 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD student at the [Spribille lab](https://spribillelab.wordpress.com) at the University of Alberta. I study the evolution of fungal-algal symbioses, known as lichens. For my current project, I apply bioinformatics methods combined with wet-lab techniques to try to understand how microbial partners communicate in the symbiotic setting and what each of them contributes to the system.
+I am currently a postdoc at Nick Talbot's group at The Sainsbury Lab (Norwich, UK). I study the evolution of fungal-algal symbioses, known as lichens. For my current project, I apply bioinformatics methods combined with wet-lab techniques to try to understand how lichen symbionts together contribute to the morphogenesis of symbiotic architectures.
 
+I did my PhD at the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.com) at the University of Alberta (Canada). In my PhD project I focused on metagenomics applied to lichen symbiosis.
+ 
 Recent news
 ======
+**17 Oct 2022** I'm excited to announce that I have joined Nick Talbot's group at The Sainsbury Lab! In my postdoc, I will be exploring how cell biology of lichen symbionts shapes the morphogenesis of lichen architectures
+
+**22 Jul 2022** Today I defended my PhD! It's hard for me to believe, but my graduate school journey is coming to an end. Huge thanks to my supervisor Toby Spribille and everyone who helped me in these 5 years!
+
 **7 Jul 2021** Our preprint is now published in [Molecular Ecology](https://onlinelibrary.wiley.com/doi/10.1111/mec.16010)
 
 **26 May 2021:** Thanks MSA for inviting me to speak at the Students Mycology Colloquium, the recording is now available at [youtube](https://www.youtube.com/watch?v=yHUCPw1q-jc&ab_channel=MSAStudents)

@@ -7,19 +7,19 @@ author_profile: true
 
 See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAAAJ&hl=en&authuser=1) and [Research Gate](https://www.researchgate.net/profile/Gulnara_Tagirdzhanova) pages
 
-Preprints and manuscipts under review/revision
-======
-1.  Resl P., Bujold A. R., **Tagirdzhanova G.**, … Spribille T. 2021. Large differences in carbohydrate degradation and transport potential in the genomes of lichen fungal symbionts. bioRxiv, [Link to article](doi.org/10.1101/2021.08.01.454614)
-
 Papers
 ======
-1. **Tagirdzhanova G.**, McCutcheon J. P., Spribille T. 2021. Lichen fungi do not depend on the alga for ATP production: a comment on Pogoda et al. (2018). Molecular Ecology,  [Link to article](https://onlinelibrary.wiley.com/doi/10.1111/mec.16010)
+1. Resl P., Bujold A. R., **Tagirdzhanova G.**, … Spribille T. 2022. Large differences in carbohydrate degradation and transport potential in the genomes of lichen fungal symbionts. Nature Communications 13: 2634. [Link to article](doi.org/10.1101/2021.08.01.454614)
+
+1. Spribille T., Resl P., Stanton D., **Tagirdzhanova G.** 2022. Evolutionary biology of lichen symbioses. New Phytologist 234(5): 1566–1582. [Link to article](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18048)
+
+1. **Tagirdzhanova G.**, McCutcheon J. P., Spribille T. 2021. Lichen fungi do not depend on the alga for ATP production: a comment on Pogoda et al. (2018). Molecular Ecology 30(17): 4155-4159. [Link to article](https://onlinelibrary.wiley.com/doi/10.1111/mec.16010)
 
 1. **Tagirdzhanova G.**, Saary P., Tingley J., Diaz Escandon D., Abbott W., Finn R., Spribille T. Predicted input of uncultured fungal symbionts to a lichen symbiosis from metagenome-assembled genomes. 2021. Genome Biology and Evolution [Link to article](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evab047/6163286)
 
 1. Spribille T., **Tagirdzhanova G.**, Goyette S., Tuovinen V., Case R., Zandberg W. 2020. 3D biofilms: in search of the polysaccharides holding together lichen symbioses. FEMS Microbiology Letters 367(5): p.fnaa023. [Download PDF](http://metalichen.github.io/files/Spribille_et_al_2020.pdf)
 
-1. **Tagirdzhanova G.**, Stepanchikova I., Himelbrant D., Vyatkina M., Dyomina A., Dirksen V., Scheidegger C. 2019. Distribution and assessment of the conservation status of Erioderma pedicellatum in Asia. Lichenologist 51(6):  575-585.  [Link to article](https://www.cambridge.org/core/journals/lichenologist/article/abs/distribution-and-assessment-of-the-conservation-status-of-erioderma-pedicellatum-in-asia/FF9DE88748C7AABF6F1F0D29F8D49C70)
+1. **Tagirdzhanova G.**, Stepanchikova I., Himelbrant D., Vyatkina M., Dyomina A., Dirksen V., Scheidegger C. 2019. Distribution and assessment of the conservation status of Erioderma pedicellatum in Asia. Lichenologist 51(6): 575-585. [Link to article](https://www.cambridge.org/core/journals/lichenologist/article/abs/distribution-and-assessment-of-the-conservation-status-of-erioderma-pedicellatum-in-asia/FF9DE88748C7AABF6F1F0D29F8D49C70)
 
 1. Himelbrant D. E., Stepanchikova I. S., Motiejūnaitė J., Kuznetsova E. S., **Tagirdzhanova G.**, Frolov I. V. 2019. New records of lichens and allied fungi from the Leningrad Region, Russia. X. Folia Cryptogamica Estonica 56: 23-29.
 
