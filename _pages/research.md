@@ -4,13 +4,15 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Using genomics to solve lichen symbiosis
-
+## Current research: understanding symbiotic architectures
 Lichens, the archetypal fungal-algal symbiosis, present a major exception to our understanding of how multicellularity works. Lichens are made of multiple unrelated lineages of microbes: different fungi, unicellular algae, and bacteria. Together—and only together—they can form elaborate three-dimensional bodies, which look nothing like individual symbionts.
 
-The goal of my PhD project is to study the give-and-take of different symbionts into the lichen symbiosis. My specific focus is on lichen-associated yeasts: the most recently discovered and most elusive members of the symbiosis. I work with lichen metagenomic data, and apply comparative genomics to understand the biology of symbionts. With these data, I generate hypotheses that I can test in the lab.
+In my project, I use meta-omics, microscopy, and cell biology tools, to study how lichen symbionts contribute to the morphogenesis of symbiotic architectures.
 
-My other goal is to create a set of methods that would allow to study lichen symbioses and other non-model symbioses. Lichens are a challenging study system, but the same challenges occur in many other field, e.g. metagenomics of soil. The tools and approaches that I aim to develop can be transferable to other complex eukaryotic communities.
+## Using metagenomics to study lichen symbiosis
+
+The goal of my PhD project was to study the give-and-take of different symbionts into the lichen symbiosis. My specific focus was on lesser-studied members of the symbiosis: lichen-associated yeasts and bacteria. I used lichen metagenomic data to obtain and analyze genomes of individual symbionts. Based on the genomes, I generated hypotheses about functional roles of different symbionts. Some of the hypotheses I tested in the lab using a novel digital-droplet PCR protocol. 
+
 
 ## Lichens and Conservation Biology
 

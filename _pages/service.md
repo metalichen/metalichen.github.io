@@ -5,25 +5,27 @@ permalink: /service/
 author_profile: true
 ---
 
+### Canadian Fungal Network
+In 2021-2022, I was involved in several [CanFunNet](https://www.fungalresearch.ca/) initiatives:
+* A member of the Organizing Committee of the 2022 CanFunNet Fungal Biology Conference
+* A co-organizer of the CanFunNet Seminar Series
+
 ### Biology Graduate Students’ Association (UAlberta)
 
 In 2020-2021, I was the president of the UAlberta [BGSA](https://grad.biology.ualberta.ca/bgsa/). I stepped into this role in April 2020, in the early days of the Covid-19 pandemic. We had to pivot to exclusively online presence and adapt to the new reality. During my term, the BGSA worked hard on maintaining the sense of community and providing the students with networking and training opportunities in place of those taken away by covid. The BGSA:
 
-* Organized online workshops: on science communication, data analysis and R, and grant writing,
-* Organized online social events for the grad students,
+* Organized online workshops and social events for the grad students,
 * Participated in the Quality Assurance visit (an external review of the department that all university departments across Canada undergo every 4 years),
 * Helped in organizing the annual [Dr. R.E. Peter Biology Conference](https://peter.biology.ualberta.ca/2021-r-e-peter-online-conference/). The conference is run by grad students of the department and features student presentations, workshops, and public talks.
 
-In the **before-covid times**, I co-organized live events for the grad students: the weekly BGSA Coffee Hour, and 2020 Candidacy Exam Workshop.  
-
 ### EDI (Equity Diversity Inclusion) Efforts
 
-I am a member of the [EDI Committee](http://grad.biology.ualberta.ca/bgsa/edi/) at the BGSA. In 2019-2021, the committee:
+I was a member of the [EDI Committee](http://grad.biology.ualberta.ca/bgsa/edi/) at the BGSA. In 2019-2021, the committee:
 
 * Designed and administered a survey on the EDI issues for the graduate students and postdocs. Communicated the results of the survey to the departmental and faculty,
-* Prepared a list of resources on the EDI to be displayed on the BGSA website.
+* Prepared a list of resources on the EDI for the graduate students.
 
-I also am a grad student member of the READ (Respect, Equity, Accountability, and Departmental Culture) working group.
+I also was a grad student member of the READ (Respect, Equity, Accountability, and Departmental Culture) working group (2020-2021).
 
 
 
@@ -35,10 +37,10 @@ Outreach
 Being grateful to all the great mentors I met during my career, I am trying to welcome more junior members of the community, from preschoolers to undergrad students.
 
 **1. The Science Mentors**\
-  [TSM](https://www.thesciencementors.com/en) is a program providing support and career advice to Russian-speaking undergrad students by connecting them to more experienced scholars. I have been a mentor for two cycles of the program, and also was interviewed on a live stream ([Watch on YouTube (in Russian)](https://www.youtube.com/watch?v=1G5a-NEvQRI&t=2s&ab_channel=TheScienceMentors))
+  [TSM](https://www.thesciencementors.com/en) was an online program providing support and career advice to undergrad students by connecting them to more experienced scholars. I was a mentor during four cycles of the program, and also was interviewed on a live stream ([Watch on YouTube (in Russian)](https://www.youtube.com/watch?v=1G5a-NEvQRI&t=2s&ab_channel=TheScienceMentors))
 
 **2. Research Zone Science Communication Program**\
-  [Research Zone](https://telusworldofscienceedmonton.ca/get-involved/research-zone/) is a program organized by the Telus World of Science. The program helps scientists communicate their research to the audience of kids. I participated in the program in 2019. I developed a hands-on activity based on my research ("learning how to make a lichen") and presented it in the science center.
+  [Research Zone](https://telusworldofscienceedmonton.ca/get-involved/research-zone/) is a program organized by the Telus World of Science (Edmonton AB, Canada). The program helps scientists communicate their research to the audience of kids. I participated in the program in 2019. I developed a hands-on activity based on my research ("learning how to make a lichen") and presented it at the science center.
 
 **3. Conferences and competitions for high school students**    
 During my time at the St. Petersburg University, I was involved in multiple initiatives aimed at high school students interested in biology.
@@ -50,7 +52,7 @@ During my time at the St. Petersburg University, I was involved in multiple init
 
 ## Nature Conservation and public engagement
 
-Since my undergrad times, I have been involved in nature conservation efforts. As a member of a team of scientists, I
+Since my undergrad times, I have been involved in nature conservation efforts. As a member of a team of scientists, I:
 
 * Collected and processed data on rare and endangered lichen species,
 * Participated in surveys leading to the establishment of several Nature Reserves in Russia.
