@@ -30,10 +30,6 @@ Recent news
 
 Contact me
 ======
-tagirdzh at ualberta.ca
+gulnara.tagirdzhanova at tsl.ac.uk
 
-Mailing address:\
-Biological Sciences CW405\
-University of Alberta\
-Edmonton, Alberta\
-Canada T6G 2R3
+
