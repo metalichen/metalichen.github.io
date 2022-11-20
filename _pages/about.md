@@ -14,6 +14,8 @@ I did my PhD at the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.c
  
 Recent news
 ======
+**19 Nov 2022** Now I'm also on <a rel="me" href="https://ecoevo.social/@metalichen">Mastodon</a>
+
 **17 Oct 2022:** I'm excited to announce that I have joined Nick Talbot's group at The Sainsbury Lab! In my postdoc, I will be exploring how cell biology of lichen symbionts shapes the morphogenesis of lichen architectures
 
 **22 Jul 2022:** Today I defended my PhD! It's hard for me to believe, but my graduate school journey is coming to an end. Huge thanks to my supervisor Toby Spribille and everyone who helped me in these 5 years!
