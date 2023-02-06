@@ -14,7 +14,7 @@ I did my PhD at the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.c
  
 Recent news
 ======
-**06 Feb 2023:** [New preprint](https://www.biorxiv.org/content/10.1101/2023.02.02.524463v1.article-metrics) alert! What are the core symbionts of lichens? TLDR: we analyzed >400 lichen metagenomes from around the world and found that 4 bacterial groups are as frequent in lichens as the alga, one of the two main partners in the symbiosis 
+**06 Feb 2023:** [New preprint](https://www.biorxiv.org/content/10.1101/2023.02.02.524463v1) alert! What are the core symbionts of lichens? TLDR: we analyzed >400 lichen metagenomes from around the world and found that 4 bacterial groups are as frequent in lichens as the alga, one of the two main partners in the symbiosis 
 
 **19 Nov 2022:** Now I'm also on <a rel="me" href="https://ecoevo.social/@metalichen">Mastodon</a>
 
