@@ -14,19 +14,21 @@ I did my PhD at the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.c
  
 Recent news
 ======
-**19 Nov 2022** Now I'm also on <a rel="me" href="https://ecoevo.social/@metalichen">Mastodon</a>
+**06 Feb 2023:** [New preprint](https://www.biorxiv.org/content/10.1101/2023.02.02.524463v1.article-metrics) alert! What are the core symbionts of lichens? TLDR: we analyzed >400 lichen metagenomes from around the world and found that 4 bacterial groups are as frequent in lichens as the alga, one of the two main partners in the symbiosis 
+
+**19 Nov 2022:** Now I'm also on <a rel="me" href="https://ecoevo.social/@metalichen">Mastodon</a>
 
 **17 Oct 2022:** I'm excited to announce that I have joined Nick Talbot's group at The Sainsbury Lab! In my postdoc, I will be exploring how cell biology of lichen symbionts shapes the morphogenesis of lichen architectures
 
 **22 Jul 2022:** Today I defended my PhD! It's hard for me to believe, but my graduate school journey is coming to an end. Huge thanks to my supervisor Toby Spribille and everyone who helped me in these 5 years!
 
-**7 Jul 2021:** Our preprint is now published in [Molecular Ecology](https://onlinelibrary.wiley.com/doi/10.1111/mec.16010)
+**07 Jul 2021:** Our preprint is now published in [Molecular Ecology](https://onlinelibrary.wiley.com/doi/10.1111/mec.16010)
 
 **26 May 2021:** Thanks MSA for inviting me to speak at the Students Mycology Colloquium, the recording is now available at [youtube](https://www.youtube.com/watch?v=yHUCPw1q-jc&ab_channel=MSAStudents)
 
 **17 Mar 2021:** New preprint ["Lichen fungi do not depend on the alga for ATP production"](https://www.biorxiv.org/content/10.1101/2021.03.17.435722v1)
 
-**9 Mar 2021:** My [paper](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evab047/6163286) in GBE is finally out! Thanks to all the coauthors!
+**09 Mar 2021:** My [paper](https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evab047/6163286) in GBE is finally out! Thanks to all the coauthors!
 
 **11 Feb 2021:** Hello world! The website is online
 

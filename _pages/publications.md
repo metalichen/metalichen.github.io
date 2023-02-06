@@ -7,8 +7,15 @@ author_profile: true
 
 See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAAAJ&hl=en&authuser=1) and [Research Gate](https://www.researchgate.net/profile/Gulnara_Tagirdzhanova) pages
 
+
+Preprints
+======
+1. **Tagirdzhanova G.**, Saary P., Cameron E.S., … & Spribille T. 2023. Evidence for a core set of microbial lichen symbionts from a global survey of metagenomes. bioRxiv [Link to article](doi.org/10.1101/2023.02.02.524463)
+
 Papers
 ======
+1. Díaz-Escandón D., **Tagirdzhanova G.**, Vanderpool D., ... & Spribille T. 2022. Genome-level analyses resolve an ancient lineage of symbiotic ascomycetes. Current Biology 32: 1–10. [Link to article](https://doi.org/10.1016/j.cub.2022.11.014)
+
 1. Resl P., Bujold A. R., **Tagirdzhanova G.**, … Spribille T. 2022. Large differences in carbohydrate degradation and transport potential in the genomes of lichen fungal symbionts. Nature Communications 13: 2634. [Link to article](doi.org/10.1101/2021.08.01.454614)
 
 1. Spribille T., Resl P., Stanton D., **Tagirdzhanova G.** 2022. Evolutionary biology of lichen symbioses. New Phytologist 234(5): 1566–1582. [Link to article](https://nph.onlinelibrary.wiley.com/doi/full/10.1111/nph.18048)
