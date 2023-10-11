@@ -5,6 +5,9 @@ permalink: /service/
 author_profile: true
 ---
 
+### The Sainsbury Laboratory PostDoc Committee
+In 2023-2024, I am a member of the PostDoc Commiittee. The committee organizes institute-wide events, runs a seminar series, and advocates on behalf of the postdoc community
+
 ### Canadian Fungal Network
 In 2021-2022, I was involved in several [CanFunNet](https://www.fungalresearch.ca/) initiatives:
 * A member of the Organizing Committee of the 2022 CanFunNet Fungal Biology Conference

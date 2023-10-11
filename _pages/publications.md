@@ -12,8 +12,13 @@ Preprints
 ======
 1. **Tagirdzhanova G.**, Saary P., Cameron E.S., … & Spribille T. 2023. Evidence for a core set of microbial lichen symbionts from a global survey of metagenomes. bioRxiv [Link to article](doi.org/10.1101/2023.02.02.524463)
 
+1. **Tagirdzhanova G.**, Scharnagl K., Yan X., Talbot N. J. 2023. Genomic analysis of Coccomyxa viridis, a common low-abundance alga associated with lichen symbioses. bioRxiv [Link to article](doi.org/10.1101/2023.09.13.557537). 
+
+
 Papers
 ======
+1. Scharnagl K., Tagirdzhanova G., Talbot N. J. 2023. The coming golden age for lichen biology. Current Biology 33(11): PR512-R518. 
+
 1. Díaz-Escandón D., **Tagirdzhanova G.**, Vanderpool D., ... & Spribille T. 2022. Genome-level analyses resolve an ancient lineage of symbiotic ascomycetes. Current Biology 32: 1–10. [Link to article](https://doi.org/10.1016/j.cub.2022.11.014)
 
 1. Resl P., Bujold A. R., **Tagirdzhanova G.**, … Spribille T. 2022. Large differences in carbohydrate degradation and transport potential in the genomes of lichen fungal symbionts. Nature Communications 13: 2634. [Link to article](doi.org/10.1101/2021.08.01.454614)
