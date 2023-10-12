@@ -4,10 +4,10 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-## Current research: understanding symbiotic architectures
+## Meta-omics of a model lichen symbiosis
 Lichens, the archetypal fungal-algal symbiosis, present a major exception to our understanding of how multicellularity works. Lichens are made of multiple unrelated lineages of microbes: different fungi, unicellular algae, and bacteria. Together—and only together—they can form elaborate three-dimensional bodies, which look nothing like individual symbionts.
 
-In my project, I use meta-omics, microscopy, and cell biology tools, to study how lichen symbionts contribute to the morphogenesis of symbiotic architectures.
+In my project, I use metagenomics and metatrnscriptomics to identify molecular mechanisms behind the lichen symbiosis.
 
 ## Using metagenomics to study lichen symbiosis
 
