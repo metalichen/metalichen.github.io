@@ -14,6 +14,8 @@ I did my PhD at the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.c
  
 Recent news
 ======
+**8 Dec 2023:** First published paper from my postdoc! Our preprint on the genomics of Coccomyxa [is published](http://rdcu.be/dsyTN) in Scientific Reports
+
 **14 Sep 2023:** First preprint from my postdoc project [is out](https://www.biorxiv.org/content/10.1101/2023.09.13.557537v1) today. Here, we analyze the genome of Coccomyxa viridis - a green alga that we accidentally cultured from a lichen thallus. Unexpectedly, we discovered that C. viridis is present in many lichens, probably as an endophyte
 
 **12 Sep 2023:** Now I'm *also* on [blueskye](https://bsky.app/profile/metalichen.bsky.social). Hopefully it will get as good as twitter used to be!
