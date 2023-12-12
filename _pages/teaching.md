@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching
-======
 In 2023-2024, I am teaching a MSc course on Data Science together with Dan McLean and Alison MacFadyen. The course covers statistics, data visualization, and intro to genomics and transcriptomics, and uses a combination of bootcamp-style practical lessons and flipped-classroom sessions.
 
 During my masters and PhD, I worked as a graduate teaching assistant for several biology classes. At the University of Alberta, I taught labs for:
