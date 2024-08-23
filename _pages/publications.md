@@ -10,6 +10,8 @@ See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAA
 
 Preprints
 ======
+1. **Tagirdzhanova G.**, Scharnagl K., Sahu N., … & Talbot N. J. 2024. Multipartite complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. [Link to article](doi.org/10.1101/2024.08.16.608140)
+
 1. **Tagirdzhanova G.**, Saary P., Cameron E.S., … & Spribille T. 2023. Evidence for a core set of microbial lichen symbionts from a global survey of metagenomes. bioRxiv [Link to article](doi.org/10.1101/2023.02.02.524463)
 
 
