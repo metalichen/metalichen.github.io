@@ -14,6 +14,8 @@ I did my PhD at the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.c
  
 Recent news
 ======
+**7 Nov 2024:**  A peer-reviewed version of our analysis of >400 lichen metagenomes from around the world is [now out](https://doi.org/10.1371/journal.pbio.3002862) in PLOSBiology. Huge thanks to all the coauthors, this was quite a journey! 
+
 **19 Aug 2024:** Very excited about [the new preprint](https://www.biorxiv.org/content/10.1101/2024.08.16.608140v1) from my postdoc project. Lichen symbiosis is a great conundrum: how can multiple microbes create a large, 3D, and structurally complex organism? To answer this question, we used metagenomics, metatranscriptomics, and a bit of protein structure modeling. We explored how gene expression differes between lichen thallus parts / developmental stages and also present the first in-depth analysis of lichen secretome
 
 **8 Dec 2023:** First published paper from my postdoc! Our preprint on the genomics of Coccomyxa [is published](http://rdcu.be/dsyTN) in Scientific Reports
