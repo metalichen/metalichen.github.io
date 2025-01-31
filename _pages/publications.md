@@ -10,17 +10,18 @@ See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAA
 
 Preprints
 ======
-1. **Tagirdzhanova G.**, Scharnagl K., Sahu N., … & Talbot N. J. 2024. Multipartite complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. [Link to article](doi.org/10.1101/2024.08.16.608140)
-
-
 
 Papers
 ======
+1. **Tagirdzhanova G.**, Scharnagl K., Sahu N., … & Talbot N. J. 2025. Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. Current Biology. [Link to article](https://doi.org/10.1016/j.cub.2024.12.041)
+
+1. Allen C.C.G., Díaz-Escandón D., DeLong-Duhon S., **Tagirdzhanova G.**, …  & Spribille T.  2025. Massive gene loss in the fungus Sporothrix epigloea accompanied a shift to life in a glucuronoxylomannan-based gel matrix. Genome Biology and Evolution. [Link to article](https://doi.org/10.1093/gbe/evaf015)
+
 1. **Tagirdzhanova G.**, Saary P., Cameron E.S., … & Spribille T. 2024. Microbial occurrence and symbiont detection in a global sample of lichen metagenomes. PLOS Biology 22(11): e3002862. [Link to article](https://doi.org/10.1371/journal.pbio.3002862)
 
 1. **Tagirdzhanova G.**, Scharnagl K., Yan X., Talbot N. J. 2023. Genomic analysis of Coccomyxa viridis, a common low-abundance alga associated with lichen symbioses. Scientific Reports 13: 21285. [Link to article](http://rdcu.be/dsyTN)
 
-1. Scharnagl K., **Tagirdzhanova G.**, Talbot N. J. 2023. The coming golden age for lichen biology. Current Biology 33(11): PR512-R518. 
+1. Scharnagl K., **Tagirdzhanova G.**, Talbot N. J. 2023. The coming golden age for lichen biology. Current Biology 33(11): PR512-R518. [Link to article](https://www.sciencedirect.com/science/article/pii/S0960982223003706)
 
 1. Díaz-Escandón D., **Tagirdzhanova G.**, Vanderpool D., ... & Spribille T. 2022. Genome-level analyses resolve an ancient lineage of symbiotic ascomycetes. Current Biology 32: 1–10. [Link to article](https://doi.org/10.1016/j.cub.2022.11.014)
 
