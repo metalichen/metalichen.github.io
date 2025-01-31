@@ -21,7 +21,7 @@ repository               : "metalichen/metalichen.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Gulnara Tagirdzhanova"
   bio              : "Postdoc studying lichen symbiosis with meta-omics and cell biology tools"
   location         : "Norwich UK"
