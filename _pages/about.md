@@ -14,9 +14,11 @@ I did my PhD at the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.c
  
 Recent news
 ======
+**8 May 2025:** A new [preprint](https://www.biorxiv.org/content/10.1101/2025.05.01.651714v1) on the genome on Trebouxia A48, the photobiont of Xanthoria parietina
+
 **31 Jan 2025:** A peer-reviewed version of our work on multi-omics of Xanthoria lichens is [now out](https://www.sciencedirect.com/science/article/pii/S0960982224017093) in Current Biology!
 
-**7 Nov 2024:**  A peer-reviewed version of our analysis of >400 lichen metagenomes from around the world is [now out](https://doi.org/10.1371/journal.pbio.3002862) in PLOSBiology. Huge thanks to all the coauthors, this was quite a journey! 
+**7 Nov 2024:** A peer-reviewed version of our analysis of >400 lichen metagenomes from around the world is [now out](https://doi.org/10.1371/journal.pbio.3002862) in PLOSBiology. Huge thanks to all the coauthors, this was quite a journey! 
 
 **19 Aug 2024:** Very excited about [the new preprint](https://www.biorxiv.org/content/10.1101/2024.08.16.608140v1) from my postdoc project. Lichen symbiosis is a great conundrum: how can multiple microbes create a large, 3D, and structurally complex organism? To answer this question, we used metagenomics, metatranscriptomics, and a bit of protein structure modeling. We explored how gene expression differes between lichen thallus parts / developmental stages and also present the first in-depth analysis of lichen secretome
 
