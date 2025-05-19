@@ -10,7 +10,7 @@ See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAA
 
 Preprints
 ======
-1. **Tagirdzhanova G.**, Raistrick J., Talbot N. J. Chromosome-level genome assembly of the photobiont alga Trebouxia sp. 'A48' from Xanthoria parietina provides new insight into the lichen symbiosis. bioRxiv. [Link to article](doi.org/10.1101/2025.05.01.651714) 
+1. **Tagirdzhanova G.**, Raistrick J., Talbot N. J. Chromosome-level genome assembly of the photobiont alga Trebouxia sp. 'A48' from Xanthoria parietina provides new insight into the lichen symbiosis. bioRxiv. [Link to article](https://www.biorxiv.org/content/10.1101/2025.05.01.651714v1) 
 
 Papers
 ======
