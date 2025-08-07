@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at [Nick Talbot's group](https://www.tsl.ac.uk/our-work/scientific-groups/nick-talbot-group) in The Sainsbury Lab (Norwich, UK). I study fungal-algal symbioses, known as lichens. How is it possible that multiple microbes - fungi, algae, bacteria - self-assemble into a lichen, which is big, complex, and three-dimensional? How can symbiotic interactions lead to a stable body plan? How do lichen architectures develop and grow? To address these questions, I use meta-omics, microscopy, and cell biology tools. My ultimate goal is to study lichen symbiosis as a case of complexity arising in evolution.
+I am a postdoc at [Hanna Johannesson's group](https://johannessonlab.org/) in Stockholm University. I study fungal-algal symbioses, known as lichens. How is it possible that multiple microbes - fungi, algae, bacteria - self-assemble into a lichen, which is big, complex, and three-dimensional? How can symbiotic interactions lead to a stable body plan? How do lichen architectures develop and grow? To address these questions, I use meta-omics, microscopy, and cell biology tools. My ultimate goal is to study lichen symbiosis as a case of complexity arising in evolution.
 
-I did my PhD at the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.com) at the University of Alberta (Canada). In my PhD project I focused on metagenomics applied to lichen symbiosis.
+I did my previous postdoc at [Nick Talbot's group](https://www.tsl.ac.uk/our-work/scientific-groups/nick-talbot-group) in The Sainsbury Lab (Norwich, UK). My PhD is from the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.com) at the University of Alberta (Canada). In my PhD project I focused on metagenomics applied to lichen symbiosis.
  
 Recent news
 ======
+**7 Aug 2025:** Slightly belated news: happy to share that I've now joined [Hanna Johannesson's group](https://johannessonlab.org/) in Stockholm! Thanks to support from Wenner-Gren Foundation, I will work on self/non-self recognition in lichen symbionts
+
+**31 July 2025:** And just like that, my time in The Sainsbury Lab is over! Huge thanks to everyone with whom I crossed paths in these 3 years!
+
 **8 May 2025:** A new [preprint](https://www.biorxiv.org/content/10.1101/2025.05.01.651714v1) on the genome on Trebouxia A48, the photobiont of Xanthoria parietina
 
 **31 Jan 2025:** A peer-reviewed version of our work on multi-omics of Xanthoria lichens is [now out](https://www.sciencedirect.com/science/article/pii/S0960982224017093) in Current Biology!
