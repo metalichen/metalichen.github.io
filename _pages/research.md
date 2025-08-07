@@ -13,6 +13,8 @@ Most of my recent work focused on *Xanthoria parietina*, a common sunburst liche
 
 Secreted proteins play a crucial role in fungal symbiosis and parasitism. Using AlphaFold-based structural analysis, I profiled the proteins potentially secreted by the *Xanthoria* fungus, and identified among them putative effectors: proteins used by fungus to manipulate other organisms' behaviour. Stay tuned for the wet-lab experiments that we are doing to study these potential effectors!
 
+![research](http://metalichen.github.io/images/research1.png)
+*Xanthoria parietina*, enjoying urban environment in Norwich
 
 ## Using metagenomics to study lichen symbiosis
 
