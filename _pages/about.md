@@ -52,6 +52,6 @@ Recent news
 
 Contact me
 ======
-gulnara.tagirdzhanova at tsl.ac.uk
+gulnara.tagirdzhanova at su.se
 
 
