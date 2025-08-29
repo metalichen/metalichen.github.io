@@ -15,6 +15,7 @@ I did my previous postdoc at [Nick Talbot's group](https://www.tsl.ac.uk/our-wor
 Recent news
 ======
 **7 Aug 2025:** Slightly belated news: happy to share that I've now joined [Hanna Johannesson's group](https://johannessonlab.org/) in Stockholm! Thanks to support from Wenner-Gren Foundation, I will work on self/non-self recognition in lichen symbionts
+
 <img src="http://metalichen.github.io/images/door.png" alt="door" width="200"/> 
 
 **31 July 2025:** And just like that, my time in The Sainsbury Lab is over! Huge thanks to everyone with whom I crossed paths in these 3 years!
