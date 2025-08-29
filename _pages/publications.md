@@ -14,7 +14,7 @@ Preprints
 
 Papers
 ======
-1. **Tagirdzhanova G.**, Scharnagl K., Sahu N., … & Talbot N. J. 2025. Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. Current Biology. [Link to article](https://doi.org/10.1016/j.cub.2024.12.041). *This paper was featured on the journal cover and cover in the 'In Other Journals' section in [Science](https://www.science.org/doi/10.1126/science.adx6889) *
+1. **Tagirdzhanova G.**, Scharnagl K., Sahu N., … & Talbot N. J. 2025. Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. Current Biology. [Link to article](https://doi.org/10.1016/j.cub.2024.12.041). *This paper was featured on the journal cover and cover in the 'In Other Journals' section in [Science](https://www.science.org/doi/10.1126/science.adx6889)*
 
 1. Allen C.C.G., Díaz-Escandón D., DeLong-Duhon S., **Tagirdzhanova G.**, …  & Spribille T.  2025. Massive gene loss in the fungus Sporothrix epigloea accompanied a shift to life in a glucuronoxylomannan-based gel matrix. Genome Biology and Evolution. [Link to article](https://doi.org/10.1093/gbe/evaf015)
 

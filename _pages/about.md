@@ -22,7 +22,7 @@ Recent news
 
 **27 Mar 2025:** Super stocked to see our Xanthoria on the cover! Also, big thanks to Nathan Chrismas and Rebecca Yahr for writing a [commentary for Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00064-8) and Caroline Ash et al. for [covering our work in Science](https://www.science.org/doi/10.1126/science.adx6889)
 
-![cover](http://metalichen.github.io/images/cover.jpg)
+<img src="http://metalichen.github.io/images/cover.jpg" alt="cover" width="200"/> 
 
 **31 Jan 2025:** A peer-reviewed version of our work on multi-omics of Xanthoria lichens is [now out](https://www.sciencedirect.com/science/article/pii/S0960982224017093) in Current Biology!
 
