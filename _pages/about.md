@@ -15,6 +15,7 @@ I did my previous postdoc at [Nick Talbot's group](https://www.tsl.ac.uk/our-wor
 Recent news
 ======
 **7 Aug 2025:** Slightly belated news: happy to share that I've now joined [Hanna Johannesson's group](https://johannessonlab.org/) in Stockholm! Thanks to support from Wenner-Gren Foundation, I will work on self/non-self recognition in lichen symbionts
+<img src="http://metalichen.github.io/images/door.png" alt="door" width="200"/> 
 
 **31 July 2025:** And just like that, my time in The Sainsbury Lab is over! Huge thanks to everyone with whom I crossed paths in these 3 years!
 
@@ -22,7 +23,7 @@ Recent news
 
 **27 Mar 2025:** Super stocked to see our Xanthoria on the cover! Also, big thanks to Nathan Chrismas and Rebecca Yahr for writing a [commentary for Current Biology](https://www.cell.com/current-biology/fulltext/S0960-9822(25)00064-8) and Caroline Ash et al. for [covering our work in Science](https://www.science.org/doi/10.1126/science.adx6889)
 
-<img src="http://metalichen.github.io/images/cover.jpg" alt="cover" width="50"/> 
+<img src="http://metalichen.github.io/images/cover.jpg" alt="cover" width="200"/> 
 
 **31 Jan 2025:** A peer-reviewed version of our work on multi-omics of Xanthoria lichens is [now out](https://www.sciencedirect.com/science/article/pii/S0960982224017093) in Current Biology!
 
