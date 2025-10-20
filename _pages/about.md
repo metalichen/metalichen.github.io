@@ -36,7 +36,7 @@ Recent news
 
 **14 Sep 2023:** First preprint from my postdoc project [is out](https://www.biorxiv.org/content/10.1101/2023.09.13.557537v1) today. Here, we analyze the genome of Coccomyxa viridis - a green alga that we accidentally cultured from a lichen thallus. Unexpectedly, we discovered that C. viridis is present in many lichens, probably as an endophyte
 
-**12 Sep 2023:** Now I'm *also* on [blueskye](https://bsky.app/profile/metalichen.bsky.social). Hopefully it will get as good as twitter used to be!
+**12 Sep 2023:** Now I'm *also* on [bluesky](https://bsky.app/profile/metalichen.bsky.social). Hopefully it will get as good as twitter used to be!
 
 **06 Feb 2023:** [New preprint](https://www.biorxiv.org/content/10.1101/2023.02.02.524463v1) alert! What are the core symbionts of lichens? TLDR: we analyzed >400 lichen metagenomes from around the world and found that 4 bacterial groups are as frequent in lichens as the alga, one of the two main partners in the symbiosis 
 

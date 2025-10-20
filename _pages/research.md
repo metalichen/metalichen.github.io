@@ -9,7 +9,7 @@ Lichens, the archetypal fungal-algal symbiosis, present a major exception to our
 
 ## Meta-omics and protein structure predictions for of symbiotic development in a model lichen symbiosis
 
-Most of my recent work focused on *Xanthoria parietina*, a common sunburst lichen, which we hope to develop into a model for studying lichen symbiotic development. I used genomics and transcriptomics to profile *Xanthoria*-associated organisms, both the main fungal and algal symbionts, and other frequently occurring organisms, whose role we only begin to understand. We are now working on identifying molecular mechanisms behind *Xanthoria* architectures. How is the growth regulated in different symbionts? We hope to answer by looking on gene expression across spacial scale. 
+Most of my recent work focused on *Xanthoria parietina*, a common sunburst lichen, which we hope to develop into a model for studying lichen symbiotic development. I used genomics and transcriptomics to profile *Xanthoria*-associated organisms, both the main fungal and algal symbionts, and other frequently occurring organisms, whose role we only begin to understand. We are now working on identifying molecular mechanisms behind *Xanthoria* architectures. How is the growth regulated in different symbionts? We hope to answer by looking on gene expression across spatial scale. 
 
 Secreted proteins play a crucial role in fungal symbiosis and parasitism. Using AlphaFold-based structural analysis, I profiled the proteins potentially secreted by the *Xanthoria* fungus, and identified among them putative effectors: proteins used by fungus to manipulate other organisms' behaviour. Stay tuned for the wet-lab experiments that we are doing to study these potential effectors!
 
