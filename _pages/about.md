@@ -14,6 +14,8 @@ I did my previous postdoc at [Nick Talbot's group](https://www.tsl.ac.uk/our-wor
  
 Recent news
 ======
+**11 Nov 2025:** Our study on the genome on Trebouxia A48, the photobiont of Xanthoria parietina is [now out](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70728) in New Phytologist
+
 **7 Aug 2025:** Slightly belated news: happy to share that I've now joined [Hanna Johannesson's group](https://johannessonlab.org/) in Stockholm! Thanks to support from Wenner-Gren Foundation, I will work on self/non-self recognition in lichen symbionts
 
 <img src="http://metalichen.github.io/images/door.png" alt="door" width="200"/> 
