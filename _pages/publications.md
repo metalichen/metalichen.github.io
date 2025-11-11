@@ -9,12 +9,11 @@ See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAA
 
 <img src="http://metalichen.github.io/images/currbio_cover.jpg" alt="currbio" width="200"/> 
 
-Preprints
-======
-1. **Tagirdzhanova G.**, Raistrick J., Talbot N. J. Chromosome-level genome assembly of the photobiont alga Trebouxia sp. 'A48' from Xanthoria parietina provides new insight into the lichen symbiosis. bioRxiv. [Link to article](https://www.biorxiv.org/content/10.1101/2025.05.01.651714v1) 
 
 Papers
 ======
+1. **Tagirdzhanova G.**, Raistrick J., Talbot N. J. Chromosome-level genome assembly of the photobiont microalga Trebouxia sp. ‘A48’ from the lichen Xanthoria parietina. New Phytologist. [Link to article](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70728) 
+
 1. **Tagirdzhanova G.**, Scharnagl K., Sahu N., … & Talbot N. J. 2025. Complexity of the lichen symbiosis revealed by metagenome and transcriptome analysis of Xanthoria parietina. Current Biology. [Link to article](https://doi.org/10.1016/j.cub.2024.12.041). *This paper was featured on the journal cover and cover in the 'In Other Journals' section in [Science](https://www.science.org/doi/10.1126/science.adx6889)*
 
 1. Allen C.C.G., Díaz-Escandón D., DeLong-Duhon S., **Tagirdzhanova G.**, …  & Spribille T.  2025. Massive gene loss in the fungus Sporothrix epigloea accompanied a shift to life in a glucuronoxylomannan-based gel matrix. Genome Biology and Evolution. [Link to article](https://doi.org/10.1093/gbe/evaf015)
