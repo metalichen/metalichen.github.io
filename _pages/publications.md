@@ -10,6 +10,10 @@ See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAA
 <img src="http://metalichen.github.io/images/currbio_cover.jpg" alt="currbio" width="200"/> 
 
 
+Preprints
+======
+1. Tagirdzhanova G., Bucknell A., Cameron E. S., Finn R. D., Blaxter M., McDonald M. C., Talbot N. J. 2025. Tangerine: a Starship-like element in the genomes of Xanthoria lichen-forming fungi. bioRxiv. [Link to preprint](https://www.biorxiv.org/content/10.1101/2025.11.25.690456v1)
+
 Papers
 ======
 1. **Tagirdzhanova G.**, Raistrick J., Talbot N. J. Chromosome-level genome assembly of the photobiont microalga Trebouxia sp. ‘A48’ from the lichen Xanthoria parietina. New Phytologist. [Link to article](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.70728) 
