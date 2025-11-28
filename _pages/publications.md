@@ -12,7 +12,7 @@ See also my [Google Scholar](https://scholar.google.ca/citations?user=RGaY7jcAAA
 
 Preprints
 ======
-1. Tagirdzhanova G., Bucknell A., Cameron E. S., Finn R. D., Blaxter M., McDonald M. C., Talbot N. J. 2025. Tangerine: a Starship-like element in the genomes of Xanthoria lichen-forming fungi. bioRxiv. [Link to preprint](https://www.biorxiv.org/content/10.1101/2025.11.25.690456v1)
+1. **Tagirdzhanova G.**, Bucknell A., Cameron E. S., Finn R. D., Blaxter M., McDonald M. C., Talbot N. J. 2025. Tangerine: a Starship-like element in the genomes of Xanthoria lichen-forming fungi. bioRxiv. [Link to preprint](https://www.biorxiv.org/content/10.1101/2025.11.25.690456v1)
 
 Papers
 ======
