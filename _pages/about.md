@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at [Hanna Johannesson's group](https://johannessonlab.org/) in Stockholm University. I study fungal-algal symbioses, known as lichens. How is it possible that multiple microbes - fungi, algae, bacteria - self-assemble into a lichen, which is big, complex, and three-dimensional? How can symbiotic interactions lead to a stable body plan? How do lichen architectures develop and grow? To address these questions, I use meta-omics, microscopy, and cell biology tools. My ultimate goal is to study lichen symbiosis as a case of complexity arising in evolution.
+I am an incoming Assisstant Professor at Stockholm University and a SciLifeLab Fellow, starting in April 2026. I study fungal-algal symbioses, known as lichens. How is it possible that multiple microbes - fungi, algae, bacteria - self-assemble into a lichen, which is big, complex, and three-dimensional? How can symbiotic interactions lead to a stable body plan? How do lichen architectures develop and grow? To address these questions, I use meta-omics, microscopy, and cell biology tools. My ultimate goal is to study lichen symbiosis as a case of complexity arising in evolution.
 
-I did my previous postdoc at [Nick Talbot's group](https://www.tsl.ac.uk/our-work/scientific-groups/nick-talbot-group) in The Sainsbury Lab (Norwich, UK). My PhD is from the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.com) at the University of Alberta (Canada). In my PhD project I focused on metagenomics applied to lichen symbiosis.
+Previously, I did a postdoc at [Hanna Johannesson's group](https://johannessonlab.org/) and before that at [Nick Talbot's group](https://www.tsl.ac.uk/our-work/scientific-groups/nick-talbot-group) in The Sainsbury Lab (Norwich, UK). My PhD is from the [Symbiosis & Evolution Lab](https://spribillelab.wordpress.com) at the University of Alberta (Canada). In my PhD project I focused on metagenomics applied to lichen symbiosis.
  
 Recent news
 ======
